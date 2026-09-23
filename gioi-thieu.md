@@ -27,6 +27,6 @@ dễ dàng tra cứu theo từng giai đoạn của dự án.
 
 ## Sơ đồ quy trình thực hiện dự án
 
-![Quy trình thực hiện dự án](quy trinh thuc hien du an xay dung.png)
-
 > **Lưu ý:** Website mang tính chất tham khảo và thực hiện đồ án
+
+![Quy trình thực hiện dự án](quy trinh thuc hien du an xay dung.png)
