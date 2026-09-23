@@ -6,15 +6,15 @@
 
 ## 2. Bài toán giải quyết
 
-Website được xây dựng nhằm hệ thống hóa các bước, trình tự và thủ tục
+* Website được xây dựng nhằm hệ thống hóa các bước, trình tự và thủ tục
 cơ bản trong quá trình thực hiện một dự án xây dựng.
 
-Nội dung được trình bày dưới dạng tài liệu trực tuyến, giúp người sử dụng
+* Nội dung được trình bày dưới dạng tài liệu trực tuyến, giúp người sử dụng
 dễ dàng tra cứu theo từng giai đoạn của dự án.
 
 ## 3. Mục tiêu
 
-- Hệ thống hóa quy trình thực hiện dự án xây dựng.
+* Hệ thống hóa quy trình thực hiện dự án xây dựng.
 
 ## 4. Các giai đoạn chính
 
