@@ -25,4 +25,8 @@ dễ dàng tra cứu theo từng giai đoạn của dự án.
 | 3 | Nghiệm thu | Kiểm tra, nghiệm thu và hoàn thành |
 | 4 | Bàn giao | Bàn giao công trình và đưa vào sử dụng |
 
+## Sơ đồ quy trình thực hiện dự án
+
+![Quy trình thực hiện dự án](quy trinh thuc hien du an xay dung.png)
+
 > **Lưu ý:** Website mang tính chất tham khảo và thực hiện đồ án
